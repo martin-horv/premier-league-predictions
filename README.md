@@ -13,3 +13,14 @@ The goal is to build:
 
 ## Project Structure
 
+
+## Roadmap
+
+- [ ] Collect historical match data  
+- [ ] Build baseline Poisson regression model  
+- [ ] Implement custom scoring system  
+- [ ] Add advanced features (Elo, form, betting odds, xG)  
+- [ ] Compare and document model performances  
+
+## License
+MIT License
